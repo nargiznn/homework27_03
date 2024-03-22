@@ -1,0 +1,35 @@
+nav {
+    background-color:rgba(44, 63, 80, 1)  ;
+    color: white;
+   
+  
+}
+ul{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.logo p{
+    display: block;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+}
+header{
+    color: white;
+    text-align: center;
+    height: 550px;
+    background-color: color(srgb 0.1025 0.7363 0.6143);
+}
+
